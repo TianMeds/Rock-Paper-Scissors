@@ -57,7 +57,7 @@ def Exit():
     if User == "0":
         Main()
     elif User == "1":
-        print("\nThank you for playing the Bato Bato Pick")
+        print("\nThank you for playing Bato Bato Pick")
         quit()
         
         
